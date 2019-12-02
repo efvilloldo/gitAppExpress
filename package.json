@@ -5,12 +5,20 @@
   "main": "app.js",
   "dependencies": {
     "express": "^4.17.1",
-    "save": "^2.4.0"
+    "jade": "^1.11.0"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efvilloldo/gitAppExpress.git"
+  },
   "author": "Esteban",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efvilloldo/gitAppExpress/issues"
+  },
+  "homepage": "https://github.com/efvilloldo/gitAppExpress#readme"
 }
